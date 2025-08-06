@@ -1,6 +1,6 @@
 # BiFuN-L
 
-This repository contains the data of the ligands dataset **BiFuN-L** containing 2,548 ligands. The are derived from the dataset [tmQMg-L](https://github.com/uiocompcat/tmQMg-L) and from in-house modifications based on substructure prevalence in the Cambridge Structural Database (CSD).
+This repository contains the data of the ligands dataset **BiFuN-L** containing 2,548 ligands. They are derived from the dataset [tmQMg-L](https://github.com/uiocompcat/tmQMg-L) and from in-house modifications based on substructure prevalence in the Cambridge Structural Database (CSD).
 They all contain a unique coordinating -NH group, and two more binding points. 
 
 ## Design of new ligands 
@@ -40,15 +40,19 @@ Type of 6-heterocyclic ring (1, 2, 3, 4)
 
 ## Data
 ##### [pincerligands_misc_info.csv](pincerligands_misc_info.csv)
-The .csv file contains information about the IDS, SMILES, atom-coordinating pattern and metal-coordinating atom indices.
+Contains information about IDs, SMILES, atom-coordinating patterns, and metal-coordinating atom indices.
 
 ##### [electronic_opt+sp_summary.csv](electronic_opt+sp_summary.csv)
-The calculated electronic descriptors for the optiimized free structures of the ligands. 
+Calculated electronic descriptors for the optimized free structures of the ligands.
 
 ##### [rdkit_descriptors.csv](rdkit_descriptors.csv)
-The calculated RDKit descriptors for the ligands. 
+Calculated RDKit descriptors for the ligands.
 
-This is a preview package and futher content will be provided in the future.
+#### Future Updates
+This release represents an initial preview of the BiFuN-L dataset. We plan to expand it with:
+Detailed documentation of design principles
+Additional computational descriptors
+Tutorials and usage examples
 
 ### Authors
 Lucía Morán-González - [lmoranglez](https://github.com/lmoranglez) \

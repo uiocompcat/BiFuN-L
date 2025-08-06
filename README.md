@@ -16,7 +16,7 @@ Examples:
 
 <ins> WATDUQ-subgraph-0 </ins>-20-00-00000-00000  ​
 
-<ins> UNIYIA-subgraph-2 <ins>-21-10-51101-61001​
+<ins> UNIYIA-subgraph-2 </ins>-21-10-51101-61001​
 
 Key components:
 - **N transformations** depending on the number of NH groups present in the tmQMg-L ligand:

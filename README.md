@@ -50,9 +50,9 @@ Calculated RDKit descriptors for the ligands.
 
 #### Future Updates
 This release represents an initial preview of the BiFuN-L dataset. We plan to expand it with:
-Detailed documentation of design principles
-Additional computational descriptors
-Tutorials and usage examples
+- Detailed documentation of design principles
+- Additional computational descriptors
+- Tutorials and usage examples
 
 ### Authors
 Lucía Morán-González - [lmoranglez](https://github.com/lmoranglez) \

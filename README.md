@@ -1,6 +1,6 @@
 # BiFuN-L
 
-This repository contains the data of the ligands dataset **BiFuN-L** containing 2,548 ligands. They are derived from the dataset [tmQMg-L](https://github.com/uiocompcat/tmQMg-L) and from in-house modifications based on substructure prevalence in the Cambridge Structural Database (CSD).
+This repository provides the **BiFuN-L** dataset, which contains 2,548 ligands from the parent BiFuN dataset. BiFuN is a dataset of transition metal complexes that will be provided in the next release. All ligands were extracted and derived from the [tmQMg-L dataset](https://github.com/uiocompcat/tmQMg-L) and from in-house modifications based on substructure prevalence in the Cambridge Structural Database (CSD).
 They all contain a unique coordinating -NH group, and two more binding points. 
 
 ## Design of new ligands 
